@@ -1,22 +1,22 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Hi! I'm Logan. 🌈",
+  "url": "https://piguicorn.dev/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Blog where I share my 100 Days of Ally journey.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Sharing my 100 Days of Ally journey",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://piguicorn.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://piguicorn.dev/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Logan Benavente",
+    "email": "hello.piguicorn@gmail.com",
+    "url": "https://piguicorn.dev/about-me/"
   },
   "nav": [{
     "title": "home",
@@ -25,22 +25,6 @@
   {
     "title": "posts",
     "url": "/posts"
-  },
-  {
-    "title": "about",
-    "url": "/about"
-  },
-  {
-    "title": "contact",
-    "url": "/contact"
-  },
-  {
-    "title": "rss",
-    "url": "/feed/feed.xml"
-  },
-  {
-    "title": "search",
-    "url": "/search"
   }],
   "config": {
     "showDateList": true,
