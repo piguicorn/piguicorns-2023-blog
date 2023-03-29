@@ -2,9 +2,9 @@
   "title": "Hi! I'm Logan. 🌈",
   "url": "https://piguicorn.dev/",
   "language": "en",
-  "description": "Blog where I share my 100 Days of Ally journey.",
+  "description": "Blog where I share my 100 Days of A11y journey.",
   "feed": {
-    "subtitle": "Sharing my 100 Days of Ally journey",
+    "subtitle": "Sharing my 100 Days of A11y journey",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://piguicorn.dev/"

@@ -1,6 +1,6 @@
 ---
 title: Why this blog
-description: This blog is a commitment.
+description: The intention for this blog is to become a journal but above all, a commitment.
 date: 2023-03-25
 tags:
   - personal
