@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
 ---
-<p>Here you can follow my 100 Days of A11y journey, where I try to learn how to make internet accessible for everyone.</p>
+<p>He/him. I am a self-taught Frontend Developer from Spain who loves CSS, Vanilla JavaScript and creating good UX (User Experiences).</p>
 <h2>Recent Posts</h2>
-{% set maxPosts = collections.posts.length | min(3) %}
-{% set postslist = collections.posts | head(-3) %}
+{% set maxPosts = collections.posts.length | min(10) %}
+{% set postslist = collections.posts | head(-10) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

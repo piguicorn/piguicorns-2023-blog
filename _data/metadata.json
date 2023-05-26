@@ -4,7 +4,7 @@
   "language": "en",
   "description": "Blog where I share my 100 Days of A11y journey.",
   "feed": {
-    "subtitle": "Sharing my 100 Days of A11y journey",
+    "subtitle": "Learning frontend development, accessibility and inclusive design.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://piguicorn.dev/"
@@ -15,7 +15,7 @@
   },
   "author": {
     "name": "Logan Benavente",
-    "email": "hello.piguicorn@gmail.com",
+    "email": "lbenavente@proton.me",
     "url": "https://piguicorn.dev/about-me/"
   },
   "nav": [{
